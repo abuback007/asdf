@@ -1,5 +1,7 @@
 main()
 {
-console.writeline("hello this is test");
+console.writeline("hello this is test this is modified version");
+console.writeline("this is new line");
 console.read();
 }
+
