@@ -1,0 +1,5 @@
+main()
+{
+console.writeline("hello this is test");
+console.read();
+}
